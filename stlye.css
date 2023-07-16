@@ -1,0 +1,28 @@
+.flag{
+    background-color: #024FA2;
+    height: 300px; width: 500px;
+    position: absolute;
+    margin: 5% 5%;
+}
+.innerbox{
+    background-color: #ED1C27;
+    height: 80px; width: 100%;
+    border: 8px solid white;
+    margin-top: 95px;
+    margin-left: -8px;
+    position: relative;
+
+}
+.circle{
+    background-color: white;
+    width: 70px; height: 70px;
+    border-radius: 50%;
+    position: relative;
+    margin: 5px 120px 0px 120px;
+}
+
+img {
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 11px;
+}
